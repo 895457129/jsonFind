@@ -1,4 +1,4 @@
-module jsonFind
+module github.com/895457129/jsonFind
 
 go 1.17
 
